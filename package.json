@@ -1,0 +1,14 @@
+{
+  "name": "studycode",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vitest": "^0.29.3"
+  }
+}
